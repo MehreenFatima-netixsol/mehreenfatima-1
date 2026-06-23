@@ -149,3 +149,10 @@ Feel free to connect with me and explore my projects.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mehreen204&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehreen204&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehreen204&layout=compact&theme=radical)
